@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="./imgs/daedalus-logo.png">
+
+    <title>PhD Students</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style_subpages.css" rel="stylesheet">
+  </head>
+
+  <body>
+   <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top navbar-custom">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img src="imgs/daedalus-logo.png"></a>
+
+      <div class="collapse navbar-collapse " id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+          </li>
+          
+
+						<li class="nav-item">
+            <a class="nav-link" href="news.html">News</a>
+          </li>
+
+					<li class="nav-item">
+            <a class="nav-link" href="about.html">About DAEDALUS</a>
+          </li>
+
+					<li class="nav-item">
+            <a class="nav-link" href="call.html">Call</a>
+          </li>
+
+					<li class="nav-item">
+            <a class="nav-link" href="faculty.html">Faculty</a>
+          </li>
+
+					<li class="nav-item">
+            <a class="nav-link" href="projects.html">Projects</a>
+          </li>
+
+					<li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+
+			<li class="nav-item">
+            <a class="nav-link" href="impressum.html">Impressum</a>
+          </li>
+
+        </ul>
+      </div>
+    </nav>
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+          <h1 class="display-3"  style="margin-top: 50px;"><font color="#FFFFFF">PhD Students</font></h1>
+     </div>
+
+			</div>
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div >
+                   <h3>
+Students
+         </h3>
+          <p align="justify">
+          <table border="0"> 
+              <tr> <th> <img src="imgs/Students/Crop_Ines_Ahrens.jpg" alt="Ines Ahrens" class="center" height="150"></th> <th> Ahrens, Ines:  <br> Institute of Mathematics, Technische Universität Berlin</th></tr>
+         
+             <tr><th><img src="imgs/Students/Crop_Benjamin_Beck.jpg" alt="Benjamin Beck" class="center" height="150"></th> <th> Beck, Benjamin: <br>Center for Astronomy and Astrophysics, Technische Universität Berlin</th> </tr>
+			  
+			 <tr><th><img src="imgs/Students/Crop_Lara_Booth.jpg" alt="Lara Booth" class="center" height="150"></th> <th> Booth, Lara: <br>Department of Mathematics and Computer Science, Freie Universität Berlin</th> </tr>
+			   
+			 <tr><th><img src="imgs/Students/Crop_Ann_Dombrowski.jpg" alt="Ann-Kathrin Dombrowski" class="center" height="150"></th> <th> Dombrowski, Ann-Kathrin: <br>Institute of Software Engineering and Theoretical Computer Science, Technische Universität Berlin</th> </tr>
+				
+			<tr><th><img src="imgs/Students/Crop_Alex_Goeßmann.jpg" alt="Alex Goeßmann" class="center" height="150"></th> <th> Goeßmann, Alex: <br>Institute of Mathematics, Technische Universität Berlin</th> </tr>
+				 
+			<tr><th><img src="imgs/Students/Crop_Ingo_Gühring.jpg" alt="Ingo Gühring" class="center" height="150"></th> <th> Gühring, Ingo: <br>Institute of Mathematics, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Nils_Harmening.jpg" alt="Nils Harmening" class="center" height="150"></th> <th> Harmening, Nils: <br>Institute of Software Engineering and Theoretical Computer Science, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Philipp_Krah.jpg" alt="Philipp Krah" class="center" height="150"></th> <th> Krah, Philipp: <br>Institute of Mathematics, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Jonas_Köhler.jpg" alt="Jonas Köhler" class="center" height="150"></th> <th> Köhler, Jonas: <br>Department of Mathematics and Computer Science, Freie Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Qiao_Luo.jpg" alt="Qiao Luo" class="center" height="150"></th> <th> Luo, Qiao: <br>Institute of Mathematics, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Vera_Röhr.jpg" alt="Vera Röhr" class="center" height="150"></th> <th> Röhr, Vera: <br>Institute of Software Engineering and Theoretical Computer Science, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Leon_Sallandt.jpg" alt="Leon Sallandt" class="center" height="150"></th> <th> Sallandt, Leon: <br>Institute of Mathematics, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Paul_Schwarz.jpg" alt="Paul Schwarz" class="center" height="150"></th> <th> Schwarz, Paul: <br>Institute of Fluid Mechanics, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Paul_Schwerdtner.jpg" alt="Paul Schwerdtner" class="center" height="150"></th> <th> Schwerdtner, Paul: <br>Institute of Mathematics, Technische Universität Berlin</th> </tr>
+						
+			<tr><th><img src="imgs/Students/Crop_Jiahan_Wang.jpg" alt="Jiahan Wang" class="center" height="150"></th> <th> Wang, Jiahan: <br>Center for Astronomy and Astrophysics, Technische Universität Berlin</th> </tr>
+			
+			<tr><th><img src="imgs/Students/Crop_Oleksandr_Zlatovjpg" alt="Oleksandr Zlatov" class="center" height="150"></th> <th> Zlatov, Oleksandr: <br>Institute of Software Engineering and Theoretical Computer Science, Technische Universität Berlin</th> </tr>
+
+
+		<p>
+        </table>
+       	</div>
+        <div>
+        </div>
+ 
+			</div>
+      <hr>
+
+      <footer>
+        <p>&copy; DAEDALUS 2019</p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
