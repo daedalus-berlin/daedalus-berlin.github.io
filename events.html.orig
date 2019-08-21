@@ -74,22 +74,23 @@
       <!-- Example row of columns -->
       <div class="row">
         <div >
-<!-- 
-Start of this event
--->		
-<small>December 02-06, 2019</small><br>
-            <h3>
-DAEDALUS Winter School
-			</h3> 
-<br>
-<!--
-End of this event
--->
+<<<<<<< HEAD
 <!-- 
 Start of this event
 -->
 		<small>May 02-03, 2019</small><br> <!-- Explanation: Date in small environment "<small></small>". Linebreak set by <br>-->
             <h3> <!-- Header environment "<h3></h3>": Title of the event -->
+=======
+		
+<small>December 02-06, 2019</small><br>
+            <h3>
+DAEDALUS Winter School
+			</h3> 
+<br>
+
+		<small>May 02-03, 2019</small><br>
+            <h3>
+>>>>>>> 88adce04d3617dd151ed0e5e8fb88b95d03bb99d
 DAEDALUS Research Retreat
 			</h3> 
 <br>
